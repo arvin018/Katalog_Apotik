@@ -1,0 +1,11 @@
+Alesan pilih next Js dengan react app ?
+Pre-Rendering Page ( static Generation dan Server side Rendering)
+
+Next js  ( cepat untuk setup routingan )
+  server => sudah ada bundle react(sudah ada html)
+  client => browser dipanggil semua sudah ready dan sudah dibaca
+
+
+Creat React App (CRA)
+ server  => masuk ke browser =>  masih bundle javascirpt/react 
+ client  => baru memanipulasi dom sehingga muncul html ui
